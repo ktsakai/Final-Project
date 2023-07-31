@@ -1,4 +1,4 @@
-scikit-learn
 matplotlib
 ntlk
-gensim
+requests
+pandas
